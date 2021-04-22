@@ -1,0 +1,1 @@
+export const INIT_WINNERS = 'INIT_WINNERS';
